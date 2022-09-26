@@ -33,7 +33,6 @@
         {
             "matches": ["*://*.freecodecamp.org/*"],
             "js":["content-script.js"],
-            "css": ["style.css"],
             "run_at": "document_end"
         }
     ]
